@@ -1,24 +1,24 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Samay%20Gupta&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Data%20Analyst&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Samay%20Gupta&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20GenAI%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Data+Analyst;Building+Scalable+Products;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Data+Analyst;AI+Engineer;Generative+AI+Developer;Prompt+Engineer;Building+AI-Powered+Solutions;Transforming+Data+Into+Business+Insights"/>
 
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech-Computer%20Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/University-Silver%20Oak%20University-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-9.12-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/Silver%20Oak%20University-Ahmedabad-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20%26%20Data-Professional-A855F7?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-6366F1?style=for-the-badge)
 
 <br/>
 
-<a href="https://yourportfolio.com">
+<a href="https://samay-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/samaygupta24/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Samay24">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -34,7 +34,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=7C3AED)
 ![](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=4F46E5)
-![](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
+![](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=A855F7)
 
 </div>
 
@@ -42,28 +42,34 @@
 
 # About Me
 
-I am a **Software Engineer and AI Engineer** focused on building scalable, reliable, and intelligent digital products. My engineering approach combines strong computer science fundamentals with modern software architecture principles to deliver enterprise-grade solutions.
+I am a **Data Analyst, AI Engineer, Prompt Engineer, and Generative AI Developer** passionate about transforming raw data into actionable business insights and building intelligent AI-powered solutions.
 
-My expertise spans **Artificial Intelligence, Machine Learning, Full Stack Development, Data Analytics, Cloud Technologies, and Product Engineering**. I enjoy transforming complex business requirements into maintainable systems that create measurable impact.
+My work focuses on combining **Data Analytics, Artificial Intelligence, Large Language Models (LLMs), Prompt Engineering, Automation, and Machine Learning** to solve real-world business problems.
 
-I actively work on:
+I enjoy designing AI systems that automate workflows, improve decision-making, and create measurable business impact. My approach combines analytical thinking, engineering excellence, and product-focused problem solving.
 
-- Designing scalable software architectures
-- Building AI-powered applications
-- Developing full-stack web platforms
-- Automating workflows and business processes
-- Data-driven decision making
-- Open-source contributions
-- Performance optimization and security best practices
+### Areas of Expertise
+
+- Data Analytics & Business Intelligence
+- Generative AI Applications
+- Prompt Engineering
+- AI Automation & AI Agents
+- Machine Learning & Predictive Analytics
+- Dashboard Development
+- SQL & Data Warehousing
+- LLM Integration
+- Workflow Automation
+- Python Development
 
 ### Open To
 
-- Software Engineering Internships
-- AI/ML Engineering Roles
-- Data Analyst Opportunities
-- Full Stack Development Projects
-- Open Source Collaborations
-- Product Engineering Teams
+- Data Analyst Roles
+- AI Engineer Roles
+- Generative AI Engineer Roles
+- Prompt Engineering Opportunities
+- AI Automation Projects
+- Freelance Consulting
+- Open Source Collaboration
 
 ---
 
@@ -72,170 +78,153 @@ I actively work on:
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,html,css,sql,bash"/>
+<img src="https://skillicons.dev/icons?i=python,sql,html,css"/>
 </p>
 
-## Frontend
+## Data Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,numpy,pandas,matplotlib,seaborn,Excel,PowerBi"/>
 </p>
 
-## Backend & Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase"/>
+
+![](https://img.shields.io/badge/PowerBI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
+
 </p>
 
-## Cloud, DevOps & Tooling
+## AI / GenAI
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode"/>
+
+![](https://img.shields.io/badge/OpenAI-GPT%20Applications-412991?style=for-the-badge&logo=openai)
+![](https://img.shields.io/badge/LangChain-AI%20Workflows-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/RAG-Systems-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Prompt%20Engineering-Advanced-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20Agents-Building-6366F1?style=for-the-badge)
+
+</p>
+
+## Cloud, DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
 </p>
 
 ---
 
-# AI / ML Expertise
+# AI / ML & Data Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| Machine Learning | Advanced | Regression, Classification, Clustering, Ensemble Models |
-| Deep Learning | Advanced | CNNs, RNNs, Transformers, Neural Networks |
-| Generative AI | Advanced | LLM Applications, Prompt Engineering, AI Agents |
-| Data Analytics | Advanced | Data Cleaning, EDA, Visualization, KPI Analysis |
-| NLP | Intermediate | Text Processing, Sentiment Analysis, Embeddings |
-| MLOps | Intermediate | Model Deployment, Monitoring, Automation |
-| Computer Vision | Intermediate | Object Detection, Image Classification |
-| Business Intelligence | Advanced | Power BI, Dashboarding, Reporting |
+| Data Analytics | Expert | SQL, Power BI, Excel, KPI Reporting |
+| Business Intelligence | Expert | Dashboards, Reporting, Insights |
+| Prompt Engineering | Advanced | System Prompts, Agent Design, Evaluation |
+| Generative AI | Advanced | GPT, LLM Applications, RAG Systems |
+| AI Automation | Advanced | Workflow Automation, AI Agents |
+| Machine Learning | Advanced | Classification, Regression, Clustering |
+| Data Visualization | Advanced | Interactive Dashboards & Reporting |
+| NLP | Advanced | Embeddings, Text Analysis, LLM Pipelines |
+| Data Engineering | Intermediate | ETL Pipelines, Data Cleaning |
+| MLOps | Intermediate | Deployment & Monitoring |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>AI Business Automation Platform</b></summary>
+<summary><b>AI Resume Analyzer & ATS Optimization System</b></summary>
 
 ### Overview
 
-Enterprise-grade automation system leveraging AI agents, workflow orchestration, and analytics to streamline business operations.
+An AI-powered platform that analyzes resumes, evaluates ATS compatibility, identifies missing skills, and provides improvement recommendations.
 
 | Category | Details |
 |-----------|----------|
-| Stack | Python, FastAPI, PostgreSQL, OpenAI, Docker |
-| Scale | Multi-workflow automation |
-| Performance | Reduced manual effort by 80% |
-| Security | JWT Authentication, RBAC |
-| Impact | Increased operational efficiency |
-| Repository | Private / Enterprise |
+| Stack | Python, OpenAI, Streamlit, NLP |
+| Scale | Multi-user Resume Processing |
+| Performance | Automated Resume Evaluation |
+| Security | Secure File Processing |
+| Impact | Improved Candidate Selection |
+| Repository | Public |
 
-Designed modular AI workflows capable of automating repetitive business tasks while maintaining observability, scalability, and reliability.
+Uses Generative AI and Prompt Engineering techniques to deliver intelligent resume feedback and scoring.
 
 </details>
 
 <details>
-<summary><b>Full Stack Analytics Dashboard</b></summary>
+<summary><b>Business Intelligence Dashboard</b></summary>
 
 ### Overview
 
-Real-time analytics platform delivering actionable business insights through dynamic dashboards and automated reporting.
+Interactive dashboard providing real-time KPIs, business metrics, trend analysis, and executive-level reporting.
 
 | Category | Details |
 |-----------|----------|
-| Stack | React, Node.js, Express, MongoDB |
-| Scale | Thousands of records processed daily |
-| Performance | Sub-second dashboard rendering |
-| Security | Secure API architecture |
-| Impact | Data-driven decision making |
+| Stack | Power BI, SQL, Excel |
+| Scale | Enterprise Analytics |
+| Performance | Real-time Reporting |
+| Security | Role-Based Access |
+| Impact | Better Business Decisions |
 | Repository | Public |
 
-Built a modern analytics ecosystem enabling stakeholders to monitor KPIs, trends, and operational metrics.
+Built to help organizations monitor performance and identify growth opportunities through data-driven insights.
 
 </details>
 
 <details>
-<summary><b>AI Resume Screening System</b></summary>
+<summary><b>AI Customer Support Agent</b></summary>
 
 ### Overview
 
-Machine learning solution designed to automate candidate evaluation and ranking processes.
+Generative AI chatbot capable of handling customer queries, retrieving information, and automating support operations.
 
 | Category | Details |
 |-----------|----------|
-| Stack | Python, NLP, Scikit-Learn |
-| Scale | High-volume resume processing |
-| Performance | Automated candidate scoring |
-| Security | Secure document handling |
-| Impact | Faster recruitment cycles |
+| Stack | OpenAI, LangChain, Python |
+| Scale | Multi-domain Knowledge Base |
+| Performance | Instant Query Resolution |
+| Security | Controlled Knowledge Access |
+| Impact | Reduced Support Costs |
 | Repository | Public |
 
-Implemented intelligent matching algorithms to identify top candidates based on role-specific requirements.
+Implemented RAG architecture and advanced prompting strategies for accurate and context-aware responses.
 
 </details>
 
 <details>
-<summary><b>Cloud-Native Task Management Platform</b></summary>
+<summary><b>AI Automation Workflow Platform</b></summary>
 
 ### Overview
 
-Scalable SaaS platform for collaborative project and task management.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Next.js, Node.js, PostgreSQL, AWS |
-| Scale | Multi-user environment |
-| Performance | High availability architecture |
-| Security | Encryption and access controls |
-| Impact | Improved team productivity |
-| Repository | Public |
-
-Engineered with cloud-first principles emphasizing resilience, maintainability, and performance.
-
-</details>
 
 ---
 
 # Experience
 
-## Software Engineering Intern
-**Technology Organization**
+## Data Analyst
 
-**Jan 2026 – Present**
+** Data Analytics Projects**
 
-Working on scalable web applications, automation systems, and AI-powered solutions.
+**2025 – Present**
 
-### Scope of Work
-
-- Designed and implemented backend APIs
-- Built automation pipelines
-- Integrated AI services and LLMs
-- Developed analytics dashboards
-- Improved application performance
-- Collaborated within Agile teams
-
-**Skills**
-
-`Python` `React` `Node.js` `AI` `Machine Learning` `SQL` `Git`
-
----
-
-## Data Analytics Intern
-**Analytics & Consulting Team**
-
-**2025 – 2026**
-
-Focused on data transformation, visualization, reporting, and business intelligence.
+Developing intelligent systems that combine data analytics, automation, and Generative AI technologies.
 
 ### Scope of Work
 
-- Data cleaning and preprocessing
-- Dashboard development
-- KPI reporting
-- SQL optimization
-- Business insights generation
+- Building AI-powered applications
+- Designing Prompt Engineering frameworks
+- Creating business dashboards
+- Developing automation workflows
+- Performing data analysis and reporting
+  
 
 **Skills**
 
-`Power BI` `SQL` `Python` `Excel` `Analytics`
+`Python` `SQL` `Power BI` `OpenAI` `Prompt Engineering` `LangChain` `Machine Learning`
 
 ---
 
@@ -245,12 +234,12 @@ Focused on data transformation, visualization, reporting, and business intellige
 
 | Recognition | Details |
 |-------------|----------|
-| Academic Excellence | Maintained strong academic performance in Computer Engineering |
-| AI Projects | Built multiple AI-powered applications |
-| Data Analytics | Developed analytical solutions using Python and SQL |
-| Full Stack Development | Designed end-to-end production-grade applications |
-| Open Source | Actively learning and contributing to modern development ecosystems |
-| Continuous Learning | Consistently upskilling in AI, Cloud, and Software Engineering |
+| AI Development | Built multiple Generative AI applications |
+| Data Analytics | Created business intelligence dashboards |
+| Prompt Engineering | Designed advanced LLM workflows |
+| Automation | Automated business operations using AI |
+| Machine Learning | Developed predictive analytics solutions |
+| Continuous Learning | Focused on AI, Data, and Emerging Technologies |
 
 </div>
 
@@ -260,15 +249,13 @@ Focused on data transformation, visualization, reporting, and business intellige
 
 ## AWS
 
-![](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Oracle
 
 ![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## NPTEL
 
-![](https://img.shields.io/badge/NPTEL-Programming%20and%20Data%20Science-4F46E5?style=for-the-badge)
 
 ## Cisco
 
@@ -276,29 +263,7 @@ Focused on data transformation, visualization, reporting, and business intellige
 
 ---
 
-# Coding Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Skills%20Verification-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
 
 # GitHub Analytics
 
@@ -348,26 +313,28 @@ Focused on data transformation, visualization, reporting, and business intellige
 
 ```yaml
 Learning:
-  - Advanced System Design
-  - Generative AI
-  - Cloud Architecture
-  - MLOps
+  - Agentic AI
+  - Advanced Prompt Engineering
+  - Generative AI Systems
+  - Machine Learning
 
 Building:
-  - AI Automation Solutions
-  - Full Stack SaaS Products
-  - Data Analytics Platforms
+  - AI Automation Platforms
+  - GenAI Applications
+  - Business Intelligence Dashboards
+  - AI Agents
 
 Exploring:
-  - Agentic AI
-  - Distributed Systems
-  - Enterprise Engineering
+  - Multi-Agent Systems
+  - RAG Architectures
+  - MLOps
+  - Enterprise AI
 
 Open_To:
-  - Software Engineering Roles
-  - AI/ML Opportunities
-  - Internship Programs
-  - Open Source Collaboration
+  - Data Analyst Roles
+  - AI Engineer Roles
+  - GenAI Developer Roles
+  - Prompt Engineering Opportunities
 ```
 
 ---
@@ -377,19 +344,19 @@ Open_To:
 <div align="center">
 
 <a href="mailto:samaygupta963@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-samaygupta963%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-samaygupta963%40gmail.com-A855F7?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/samaygupta24/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-4F46E5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Samay24">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-312E81?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Experience-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://samay-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-AI%20%26%20Data%20Projects-7C3AED?style=for-the-badge"/>
 </a>
 
 </div>
@@ -398,7 +365,7 @@ Open_To:
 
 <div align="center">
 
-### *"Engineering scalable products, leveraging AI intelligently, and creating measurable impact through technology."*
+### *"Turning Data into Insights, Insights into Intelligence, and Intelligence into Impact."*
 
 </div>
 
