@@ -127,9 +127,7 @@ I enjoy designing AI systems that automate workflows, improve decision-making, a
 | AI Automation | Advanced | Workflow Automation, AI Agents |
 | Machine Learning | Advanced | Classification, Regression, Clustering |
 | Data Visualization | Advanced | Interactive Dashboards & Reporting |
-| NLP | Advanced | Embeddings, Text Analysis, LLM Pipelines |
-| Data Engineering | Intermediate | ETL Pipelines, Data Cleaning |
-| MLOps | Intermediate | Deployment & Monitoring |
+
 
 ---
 
@@ -247,6 +245,8 @@ Developing intelligent systems that combine data analytics, automation, and Gene
 
 # Certifications
 
+<div align="center">
+
 ## AWS
 
 ![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -261,6 +261,7 @@ Developing intelligent systems that combine data analytics, automation, and Gene
 
 ![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+</div>
 ---
 
 
